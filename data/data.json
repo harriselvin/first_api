@@ -1,0 +1,204 @@
+{
+    "aboutMe": "My name is Elvin Harris and I love coding",
+    "projects": [
+        {
+            "name": "Calculator",
+            "gitHub": "https://github.com/harriselvin/digital_calculator.git",
+            "vercel": "https://digital-calculator-green.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "BMI Calculator",
+            "gitHub": "https://github.com/harriselvin/BMI_calculator.git",
+            "vercel": "https://bmi-calculator-eight-gules.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "Weather App",
+            "gitHub": "https://github.com/harriselvin/Weather_app.git",
+            "vercel": "https://weather-app-wheat-phi-64.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "Temperature Converter",
+            "gitHub": "https://github.com/harriselvin/temp_converter.git",
+            "vercel": "https://temp-converter-rho.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "Todo App",
+            "gitHub": "https://github.com/harriselvin/Todo-exercise.git",
+            "vercel": "https://todo-exercise-three.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "Book Connect App",
+            "gitHub": "https://github.com/harriselvin/book_connect_app.git",
+            "vercel": "https://book-connect-app-ochre.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "Tic Tac Toe Game",
+            "gitHub": "https://github.com/harriselvin/Tic_tac_toe_game.git",
+            "vercel": "https://tic-tac-toe-game-sigma-six.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        },
+        {
+            "name": "Stopwatch",
+            "gitHub": "https://github.com/harriselvin/stopwatch.git",
+            "vercel": "https://stopwatch-seven-beryl.vercel.app/",
+            "description": "Languages used ...",
+            "image": "URL"
+        }
+    ],
+    "education": [
+        {
+            "description": "",
+            "year": "2nd April 2024 - current",
+            "institution": "Life Choices Coding Academy",
+            "contact": [
+                {
+                    "name": "Matthew",
+                    "contactDetails": ""
+                }
+            ]
+        },
+        {
+            "description": "I completed a 6 month Software Development Course at CodeSpace Academy",
+            "year": "March 2023 - September 2023",
+            "institution": "CodeSpace Academy",
+            "contact": [
+                {
+                    "name": "Nigel Jonas",
+                    "contactDetails": ""
+                }
+            ]
+        },
+        {
+            "description": "Completed First Year of Information Technology System Managment Higher Certificate",
+            "year": "March 2020 - December 2020",
+            "institution": "False Bay College",
+            "contact": [
+                {
+                    "name": "",
+                    "contactDetails": ""
+                }
+            ]
+        },
+        {
+            "description": "Completed a part-time International Computer Driving License Course",
+            "year": "June 2018 - November 2018",
+            "institution": "False Bay College",
+            "contact": [
+                {
+                    "name": "",
+                    "contactDetails": ""
+                }
+            ]
+        },
+        {
+            "description": "Matriculated with Bachelors Pass",
+            "year": "2013 - 2017",
+            "institution": "Lavender Hill High School",
+            "contact": [
+                {
+                    "name": "",
+                    "contactDetails": ""
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "image": "URL"
+        },
+        {
+            "name": "CSS",
+            "image": "URL"
+        },
+        {
+            "name": "JavaScript",
+            "image": "URL"
+        },
+        {
+            "name": "Bootstrap",
+            "image": "URL"
+        },
+        {
+            "name": "React",
+            "image": "URL"
+        },
+        {
+            "name": "Vuejs",
+            "image": "URL"
+        }
+    ],
+    "workExp": [
+        {
+            "placeOfWork": "Levana Primary School",
+            "year": "Nov 2021 - Oct 2022",
+            "description": "Administered the computer lab, as well as administration. Facilitated classes without supervision. Managed the school tuckshop.",
+            "contact": [
+                {
+                    "name": "",
+                    "cell": "",
+                    "position": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "placeOfWork": "New World Foundation",
+            "year": "2018 - 2021",
+            "description": "Started out with volunteering work, but started working there later on. Did data capturing, as well as administration. Facilitated programs with children.",
+            "contact": [
+                {
+                    "name": "",
+                    "cell": "",
+                    "position": "",
+                    "email": ""
+                }
+            ]
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        },
+        {
+            "name": "",
+            "position": "",
+            "message": ""
+        }
+    ]
+}
