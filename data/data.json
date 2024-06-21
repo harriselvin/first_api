@@ -1,6 +1,6 @@
-{"data": [{
-    "aboutMe": "My name is Elvin Harris and I love coding",
-    "projects": [
+{"data": [
+    {"aboutMe": "My name is Elvin Harris and I love coding"},
+    {"projects": [
         {
             "name": "Calculator",
             "gitHub": "https://github.com/harriselvin/digital_calculator.git",
@@ -57,8 +57,8 @@
             "description": "Languages used ...",
             "image": "URL"
         }
-    ],
-    "education": [
+    ]},
+    {"education": [
         {
             "description": "",
             "year": "2nd April 2024 - current",
@@ -114,8 +114,8 @@
                 }
             ]
         }
-    ],
-    "skills": [
+    ]},
+    {"skills": [
         {
             "name": "HTML",
             "image": "URL"
@@ -140,8 +140,8 @@
             "name": "Vuejs",
             "image": "URL"
         }
-    ],
-    "workExp": [
+    ]},
+    {"workExp": [
         {
             "placeOfWork": "Levana Primary School",
             "year": "Nov 2021 - Oct 2022",
@@ -168,8 +168,8 @@
                 }
             ]
         }
-    ],
-    "testimonials": [
+    ]},
+    {"testimonials": [
         {
             "name": "",
             "position": "",
@@ -200,5 +200,5 @@
             "position": "",
             "message": ""
         }
-    ]
-}]}
+    ]}
+]}
