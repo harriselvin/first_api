@@ -6,56 +6,56 @@
             "gitHub": "https://github.com/harriselvin/digital_calculator.git",
             "vercel": "https://digital-calculator-green.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Calculator_app.png"
         },
         {
             "name": "BMI Calculator",
             "gitHub": "https://github.com/harriselvin/BMI_calculator.git",
             "vercel": "https://bmi-calculator-eight-gules.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/BMI_calculator.png"
         },
         {
             "name": "Weather App",
             "gitHub": "https://github.com/harriselvin/Weather_app.git",
             "vercel": "https://weather-app-wheat-phi-64.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/weather_app.png"
         },
         {
             "name": "Temperature Converter",
             "gitHub": "https://github.com/harriselvin/temp_converter.git",
             "vercel": "https://temp-converter-rho.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Temperature_converter.png"
         },
         {
             "name": "Todo App",
             "gitHub": "https://github.com/harriselvin/Todo-exercise.git",
             "vercel": "https://todo-exercise-three.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Todo_app.png"
         },
         {
             "name": "Book Connect App",
             "gitHub": "https://github.com/harriselvin/book_connect_app.git",
             "vercel": "https://book-connect-app-ochre.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Book_connect_app.png"
         },
         {
             "name": "Tic Tac Toe Game",
             "gitHub": "https://github.com/harriselvin/Tic_tac_toe_game.git",
             "vercel": "https://tic-tac-toe-game-sigma-six.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Tic_tac_toe.png"
         },
         {
             "name": "Stopwatch",
             "gitHub": "https://github.com/harriselvin/stopwatch.git",
             "vercel": "https://stopwatch-seven-beryl.vercel.app/",
             "description": "Languages used ...",
-            "image": "URL"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Stopwatch.png"
         }
     ]},
     {"education": [
