@@ -60,46 +60,46 @@
     ],
     "education": [
         {
-            "description": "",
+            "description": "Currently still enrolled",
             "year": "2nd April 2024 - current",
             "institution": "Life Choices Coding Academy",
             "contact": [
                 {
-                    "name": "Matthew",
+                    "name": "Matthew Dean Brown",
                     "contactDetails": ""
                 }
             ]
         },
         {
-            "description": "I completed a 6 month Software Development Course at CodeSpace Academy",
+            "description": "I completed a 6 month Software Development Course",
             "year": "March 2023 - September 2023",
-            "institution": "CodeSpace Academy",
+            "institution": "CodeSpace Academy in collabaration in SOZO Foundation",
             "contact": [
                 {
                     "name": "Nigel Jonas",
-                    "contactDetails": ""
+                    "contactDetails": "0609248414"
                 }
             ]
         },
         {
-            "description": "Completed First Year of Information Technology System Managment Higher Certificate",
+            "description": "Completed First Year of Information Technology System Management Higher Certificate",
             "year": "March 2020 - December 2020",
             "institution": "False Bay College",
             "contact": [
                 {
-                    "name": "",
-                    "contactDetails": ""
+                    "name": "Fish Hoek Campus",
+                    "contactDetails": "0217820144"
                 }
             ]
         },
         {
-            "description": "Completed a part-time International Computer Driving License Course",
+            "description": "Completed a part-time (ICDL) International Computer Driving License Course",
             "year": "June 2018 - November 2018",
             "institution": "False Bay College",
             "contact": [
                 {
-                    "name": "",
-                    "contactDetails": ""
+                    "name": "Fish Hoek Campus",
+                    "contactDetails": "0217820144"
                 }
             ]
         },
@@ -109,8 +109,8 @@
             "institution": "Lavender Hill High School",
             "contact": [
                 {
-                    "name": "",
-                    "contactDetails": ""
+                    "name": "Fuad Viljoen",
+                    "contactDetails": "0815830027"
                 }
             ]
         }
@@ -118,27 +118,38 @@
     "skills": [
         {
             "name": "HTML",
-            "image": "URL"
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
+            "link": "https://www.w3schools.com/html/default.asp"
         },
         {
             "name": "CSS",
-            "image": "URL"
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
+            "link": "https://www.w3schools.com/css/"
         },
         {
             "name": "JavaScript",
-            "image": "URL"
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+            "link": "https://www.w3schools.com/js/default.asp"
         },
         {
             "name": "Bootstrap",
-            "image": "URL"
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg",
+            "link": "https://getbootstrap.com/"
         },
         {
             "name": "React",
-            "image": "URL"
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+            "link": "https://react.dev/"
         },
         {
             "name": "Vuejs",
-            "image": "URL"
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg",
+            "link": "https://vuejs.org/"
+        },
+        {
+            "name": "Git",
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg",
+            "link": "https://git-scm.com/"
         }
     ],
     "workExp": [
@@ -148,10 +159,10 @@
             "description": "Administered the computer lab, as well as administration. Facilitated classes without supervision. Managed the school tuckshop.",
             "contact": [
                 {
-                    "name": "",
-                    "cell": "",
-                    "position": "",
-                    "email": ""
+                    "name": "Shamiega Charity",
+                    "cell": "0783429708",
+                    "position": "Principal",
+                    "email": "shamiegacharity@gmail.com"
                 }
             ]
         },
@@ -161,10 +172,10 @@
             "description": "Started out with volunteering work, but started working there later on. Did data capturing, as well as administration. Facilitated programs with children.",
             "contact": [
                 {
-                    "name": "",
-                    "cell": "",
-                    "position": "",
-                    "email": ""
+                    "name": "Malany Meyer",
+                    "cell": "0722367556",
+                    "position": "Youth Coordinator",
+                    "email": "malanymeyer@gmail.com"
                 }
             ]
         }
