@@ -117,39 +117,71 @@
     ],
     "skills": [
         {
-            "name": "HTML",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
-            "link": "https://www.w3schools.com/html/default.asp"
+            "techSkills": [
+                {
+                    "name": "HTML",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
+                    "link": "https://www.w3schools.com/html/default.asp"
+                },
+                {
+                    "name": "CSS",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
+                    "link": "https://www.w3schools.com/css/"
+                },
+                {
+                    "name": "JavaScript",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+                    "link": "https://www.w3schools.com/js/default.asp"
+                },
+                {
+                    "name": "Bootstrap",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg",
+                    "link": "https://getbootstrap.com/"
+                },
+                {
+                    "name": "React",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+                    "link": "https://react.dev/"
+                },
+                {
+                    "name": "Vuejs",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg",
+                    "link": "https://vuejs.org/"
+                },
+                {
+                    "name": "Git",
+                    "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg",
+                    "link": "https://git-scm.com/"
+                }
+            ]
         },
         {
-            "name": "CSS",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
-            "link": "https://www.w3schools.com/css/"
-        },
-        {
-            "name": "JavaScript",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
-            "link": "https://www.w3schools.com/js/default.asp"
-        },
-        {
-            "name": "Bootstrap",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg",
-            "link": "https://getbootstrap.com/"
-        },
-        {
-            "name": "React",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
-            "link": "https://react.dev/"
-        },
-        {
-            "name": "Vuejs",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg",
-            "link": "https://vuejs.org/"
-        },
-        {
-            "name": "Git",
-            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg",
-            "link": "https://git-scm.com/"
+            "softSkills": [
+                {
+                    "name": "Communication",
+                    "image": "https://as1.ftcdn.net/v2/jpg/02/02/42/38/500_F_202423857_huKRSz9U8XTR0RahGjQ1401QbDokl1xJ.jpg"
+                },
+                {
+                    "name": "Listening",
+                    "image": "https://media.istockphoto.com/id/826497396/vector/ear-listening-hearing-audio-sound-waves-vector-icon.jpg?s=612x612&w=0&k=20&c=x3C6RuP2pmAQGLOfZ-l02TL42W6uvlvbfmRSgpFCuqk="
+                },
+                {
+                    "name": "Leadership",
+                    "image": "https://as1.ftcdn.net/v2/jpg/02/18/21/96/1000_F_218219631_M5G7P00PzuzMcVjZ2Dj4Op4QNohGPAtb.jpg"
+                },
+                {
+                    "name": "Problem Solving",
+                    "image": "https://cdn-icons-png.freepik.com/512/8148/8148303.png"
+                },
+                {
+                    "name": "Adaptability",
+                    "image": "https://www.shutterstock.com/image-vector/adaptation-icon-vector-illustration-600nw-1230663208.jpg"
+                },
+                {
+                    "name": "Creativity",
+                    "image": "https://cdn2.iconfinder.com/data/icons/business-intelligence-5/66/44-512.png"
+                }
+            ]
         }
     ],
     "workExp": [
