@@ -213,34 +213,40 @@
     ],
     "testimonials": [
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Matthew Dean Brown",
+            "position": "Lecturer",
+            "image": "https://harriselvin.github.io/hostedImages/Images/Matthew.png",
+            "message": "Elvin is a hardworking coding individual. His passion for coding shows greatly in his projects, especially in frontend. He always goes the extra mile when delivering projects and is always helpful towards his peers."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Jayden Van Rooyen",
+            "position": "Student",
+            "image": "https://harriselvin.github.io/hostedImages/Images/Jayden.jpg",
+            "message": "Elvin is an exceptional coder who is dedicated to mastering new concepts and technologies. He excels in his own learning and helps his peers succeed by sharing his knowledge and offering support. His patient and supportive demeanor creates a positive learning environment, making him an invaluable member of the class."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Gwiba Mabandla",
+            "position": "Student",
+            "image": "https://harriselvin.github.io/hostedImages/Images/Gwiba.jpg",
+            "message": "Elvin is intelligent , hardworking and a very fast learner. I respect his determination and creativity on how he solves problems and come up with amazing layouts on the spot and he is very confident in his skills and he shows it. I know first-hand that he is an exceptional teammate. Hire this man already."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Chloe Smith",
+            "position": "Student",
+            "image": "https://harriselvin.github.io/hostedImages/Images/Chloe.png",
+            "message": "Elvin has a talent for simplifying complex ideas, making them easy for others to understand. His deep knowledge and ability to break down intricate concepts make him an invaluable resource in academic pursuits. Elvin's willingness to share his expertise and patiently guide others highlights his exceptional skills as both a peer and a mentor (well in my eyes)."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Sihlandlo Makhumsha",
+            "position": "Student",
+            "image": "https://harriselvin.github.io/hostedImages/Images/Sihlandlo.jpg",
+            "message": "Elvin, the best to ever grace the class and a very down to earth gentleman.  His eagerness to do more with coding is what makes him outstanding.  He believes in going an extra mile to achieve the unexpected."
         },
         {
-            "name": "",
-            "position": "",
-            "message": ""
+            "name": "Yonela Mangele",
+            "position": "Student",
+            "image": "https://harriselvin.github.io/hostedImages/Images/Yonela.jpg",
+            "message": "I wholeheartedly recommend Elvin for any challenging task because his approach to solving a problem and helping his group members is what makes him an exceptional team player. I also recommend him for team leading because he is very approachable and is patient enough to explain to others what the problem is and how to fix."
         }
     ]
 }
