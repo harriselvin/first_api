@@ -29,7 +29,7 @@
             "name": "Temperature Converter",
             "gitHub": "https://github.com/harriselvin/temp_converter.git",
             "vercel": "https://temp-converter-rho.vercel.app/",
-            "description": "Converts temperature between Celsius, Fahrenheit, and Kelvin.",
+            "description": "Converts temperature between Celsius and Fahrenheit.",
             "technologies": "HTML, CSS, JavaScript",
             "image": "https://harriselvin.github.io/hostedImages/Images/Temperature_converter.png"
         },
