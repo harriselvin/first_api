@@ -204,6 +204,7 @@
     "workExp": [
         {
             "placeOfWork": "Levana Primary School",
+            "position": "Teachers Assistant",
             "year": "Nov 2021 - Oct 2022",
             "description": "Administered the computer lab, as well as administration. Facilitated classes without supervision. Managed the school tuckshop.",
             "contact": [
@@ -217,6 +218,7 @@
         },
         {
             "placeOfWork": "New World Foundation",
+            "position": "Assistant",
             "year": "2018 - 2021",
             "description": "Started out with volunteering work, but started working there later on. Did data capturing, as well as administration. Facilitated programs with children.",
             "contact": [
