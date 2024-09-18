@@ -155,6 +155,11 @@
             "name": "Git",
             "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg",
             "link": "https://git-scm.com/"
+        },
+        {
+            "name": "Node",
+            "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
+            "link": "https://nodejs.org/en"
         }
     ],
     "softSkills": [
