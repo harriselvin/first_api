@@ -201,7 +201,128 @@
             "image": "https://cdn2.iconfinder.com/data/icons/business-intelligence-5/66/44-512.png"
         }
     ],
+    "certificates": [
+        {
+            "name": "Introduction to the AWS Cloud",
+            "image": "https://harriselvin.github.io/hostedImages/Images/intro_to_AWS_cloud.png",
+            "description": "Introduction to the AWS Cloud",
+            "date": "30 September 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Building a Cloud Career",
+            "image": "https://harriselvin.github.io/hostedImages/Images/building_a_cloud_career.png",
+            "description": "Dive into the world of cloud computing and learn how to build a cloud career.",
+            "date": "30 September",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Demystifying Generative AI",
+            "image": "https://harriselvin.github.io/hostedImages/Images/generative_AI.png",
+            "description": "AI is all around us, but what is it and how does it work?",
+            "date": "30 September",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Job Roles in the Cloud",
+            "image": "https://harriselvin.github.io/hostedImages/Images/job_roles_in_cloud.png",
+            "description": "There are many different roles in the cloud, but what are they and how do they fit together?",
+            "date": "30 September 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Why Get AWS Certified?",
+            "image": "https://harriselvin.github.io/hostedImages/Images/AWS_get_certified.png",
+            "description": "How to get AWS certified and why you should.",
+            "date": "30 September 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Computer Foundations: Part 1 - Computer & Network Hardware",
+            "image": "https://harriselvin.github.io/hostedImages/Images/computer_foundations_p1.png",
+            "description": "Network and computer hardware are the foundation of all computer systems.",
+            "date": "1 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Computer Foundations: Part 2 - Security",
+            "image": "https://harriselvin.github.io/hostedImages/Images/computer_foundations_p2.png",
+            "description": "Security is a critical component of all computer systems.",
+            "date": "1 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Computer Foundations: Part 3 - Storage and Databases",
+            "image": "https://harriselvin.github.io/hostedImages/Images/computer_foundations_p3.png",
+            "description": "There are many different types of storage and databases within the AWS Cloud.",
+            "date": "2 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Computer Foundations: Part 4 - Networking",
+            "image": "https://harriselvin.github.io/hostedImages/Images/computer_foundations_p4.png",
+            "description": "Networks are the backbone of all computer systems.",
+            "date": "2 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics",
+            "image": "https://harriselvin.github.io/hostedImages/Images/cloud_prac_p1.png",
+            "description": "The AWS Cloud is a complex and powerful technology. It is essential to understand the basics before moving on to more advanced topics.",
+            "date": "7 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Becoming a Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies",
+            "image": "https://harriselvin.github.io/hostedImages/Images/cloud_prac_p2.png",
+            "description": "The AWS Cloud offers a wide range of compute, networking, and account strategies.",
+            "date": "7 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Becoming a Cloud Practitioner - Part 2 - Identities, Security, and Monitoring the AWS Cloud",
+            "image": "https://harriselvin.github.io/hostedImages/Images/cloud_prac_p3.png",
+            "description": "When working in the AWS Cloud, it is essential to understand identities, security, and monitoring.",
+            "date": "8 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Becoming a Cloud Practitioner - Part 2 - Advanced Cloud Services",
+            "image": "https://harriselvin.github.io/hostedImages/Images/cloud_prac_p4.png",
+            "description": "The AWS Cloud offers a wide range of advanced cloud services.",
+            "date": "8 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Becoming a Cloud Practitioner Lab Session",
+            "image": "https://harriselvin.github.io/hostedImages/Images/becoming_a_cloud_prac_lab.png",
+            "description": "Labs are an essential part of learning the AWS Cloud.",
+            "date": "9 October 2024",
+            "issuer": "AWS Skill Center"
+        },
+        {
+            "name": "Exam Prep - AWS Certified Cloud Practitioner",
+            "image": "https://harriselvin.github.io/hostedImages/Images/AWS_CP_exam_prep.png",
+            "description": "The AWS Certified Cloud Practitioner exam is a challenging exam. This session will help you prepare.",
+            "date": "9 October 2024",
+            "issuer": "AWS Skill Center"
+        }
+    ],
     "workExp": [
+        {
+            "placeOfWork": "LC Studio",
+            "position": "Intern",
+            "year": "Sep 2024 - Current",
+            "description": "Engadged in various projects, including the development of a cloud-based application using AWS services. Learned how different operating systems work and how to troubleshoot common issues, such as Linux and Windows.",
+            "contact": [
+                {
+                    "name": "Darron Gelderbloem",
+                    "cell": "",
+                    "position": "Programme Manager",
+                    "email": ""
+                }
+            ]
+        },
         {
             "placeOfWork": "Levana Primary School",
             "position": "Teachers Assistant",
