@@ -203,6 +203,13 @@
     ],
     "certificates": [
         {
+            "name": "UI/UX Hackathon",
+            "image": "https://harriselvin.github.io/hostedImages/Images/UIUX_BADGE.png",
+            "description": "Applied UI/UX principles and created a professional portfolio website using Figma",
+            "date": "14 October 2024 - 18 October 2024",
+            "issuer": "LC Studio"
+        },
+        {
             "name": "Introduction to the AWS Cloud",
             "image": "https://harriselvin.github.io/hostedImages/Images/intro_to_AWS_cloud.png",
             "description": "Introduction to the AWS Cloud",
