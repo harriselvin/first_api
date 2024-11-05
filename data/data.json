@@ -315,6 +315,13 @@
             "description": "Applied UI/UX principles and created a professional portfolio website using Figma",
             "date": "14 October 2024 - 18 October 2024",
             "issuer": "LC Studio"
+        },
+        {
+            "name": "Operating Systems Basics",
+            "image": "https://harriselvin.github.io/hostedImages/Images/operating-systems-basics.png",
+            "description": "Use Windows adminsitrative tools to configure, monitor, and manage system resources, as well as implement basic Linux security",
+            "date": "01 October 2024",
+            "issuer": "Cisco Networking Academy"
         }
     ],
     "workExp": [
