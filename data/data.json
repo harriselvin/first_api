@@ -61,7 +61,7 @@
             "name": "Word Finder Game",
             "gitHub": "https://github.com/harriselvin/word-finder-game.git",
             "vercel": "https://word-finder-game.vercel.app/",
-            "description": "A game where players guess letters to reveal hidden words, with dynamic levels and decreasing guesses.",
+            "description": "Guess letters to reveal words, advance through levels, and manage guesses.",
             "technologies": "HTML, CSS, JavaScript",
             "image": "https://harriselvin.github.io/hostedImages/Images/Word-finder.png"
         }
