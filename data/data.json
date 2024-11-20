@@ -58,12 +58,12 @@
             "image": "https://harriselvin.github.io/hostedImages/Images/Tic_tac_toe.png"
         },
         {
-            "name": "Stopwatch",
-            "gitHub": "https://github.com/harriselvin/stopwatch.git",
-            "vercel": "https://stopwatch-seven-beryl.vercel.app/",
-            "description": "A stopwatch tool with start, stop, and reset functionalities.",
+            "name": "Word Finder Game",
+            "gitHub": "https://github.com/harriselvin/word-finder-game.git",
+            "vercel": "https://word-finder-game.vercel.app/",
+            "description": "A game where players guess letters to reveal hidden words, with dynamic levels and decreasing guesses.",
             "technologies": "HTML, CSS, JavaScript",
-            "image": "https://harriselvin.github.io/hostedImages/Images/Stopwatch.png"
+            "image": "https://harriselvin.github.io/hostedImages/Images/Word-finder.png"
         }
     ],
     "education": [
