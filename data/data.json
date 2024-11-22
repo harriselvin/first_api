@@ -322,6 +322,13 @@
             "description": "Use Windows adminsitrative tools to configure, monitor, and manage system resources, as well as implement basic Linux security",
             "date": "01 Oct 2024",
             "issuer": "Cisco Networking Academy"
+        },
+        {
+            "name": "Networking Devices and Initial Configuration",
+            "image": "https://harriselvin.github.io/hostedImages/Images/networking-devices-and-initial-configuration.png",
+            "description": "The badge confirms completion of Cisco's Networking Devices and Initial Configuration course, covering cloud, IP addressing, and basic network setup with hands-on labs and Cisco Packet Tracer activities.",
+            "date": "2 Nov 2024",
+            "issuer": "Cisco Networking Academy"
         }
     ],
     "workExp": [
